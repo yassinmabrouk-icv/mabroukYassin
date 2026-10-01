@@ -2,6 +2,8 @@
 
 Resolució dels 10 exercicis de JavaScript tots en consola i alguns també en versió per navegador.
 
+Enllaç per accedir al repositori: https://github.com/yassinmabrouk-icv/mabroukYassin/tree/main
+
 ## Estructura
 
 ```text
