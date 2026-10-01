@@ -31,6 +31,7 @@ node 01-major-dos-nombres.js
 
 ## Documentació i explicació
 
-Vegeu les explicacions i captures del funcionament dels exercicis al navegador [`ex-navegador/docs/documentacio-exercicis.md`](v2-navegador/docs/guia-navegador.md).
+Vegeu les explicacions i captures del funcionament dels exercicis al navegador [`ex-navegador/docs/documentacio-exercicis.md`](ex-navegador/docs/documentacio-exercicis.md).
 
+També en format `PDF`: [`ex-navegador/docs/documentacio-exercicis.pdf`](ex-navegador/docs/documentacio-exercicis.pdf).
 
