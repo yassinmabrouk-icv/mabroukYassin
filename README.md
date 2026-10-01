@@ -12,8 +12,7 @@ mabroukYassin/
 └── ex-navegador/        Mateixos exercicis per navegador
     ├── index.html       Índex amb un enllaç per exercici
     ├── js/              Codi JavaScript de cada exercici
-    ├── captures/        Captures de pantalla de les proves
-    └── docs/            Guia i explicació de cada exercici
+    └── docs/            Guia i explicació de cada exercici amb les captures (Markdown i pdf)
 ```
 
 ## Com executar-ho
@@ -24,11 +23,14 @@ mabroukYassin/
 node 01-major-dos-nombres.js
 ```
 
-**Versió 2 (navegador):** obre `index.html` en un navegador i tria un exercici (treient el comentari d'un dels enllaços de JS). Les dades es demanen amb `prompt` i el resultat es mostra a la pàgina i a la consola (F12).
+**Versió 2 (navegador):** 
+1. Obre `ex-navegador/index.html` en un navegador.
+2. Cada exercici fa servir `prompt` i `document.writeln` en carregar-se, així que a l'`index.html` **només ha d'haver-hi un `<script>` actiu cada vegada**. Els altres es deixen comentats.
+3. Recarrega la pàgina per repetir la prova. Obre la consola amb **F12** si cal.
 
 
-## Documentació
+## Documentació i explicació
 
-Vegeu les captures del funcionament dels exercicis al navegador [`v2-navegador/docs/guia-navegador.md`](v2-navegador/docs/guia-navegador.md).
+Vegeu les explicacions i captures del funcionament dels exercicis al navegador [`ex-navegador/docs/documentacio-exercicis.md`](v2-navegador/docs/guia-navegador.md).
 
 
